@@ -7,3 +7,5 @@ Please feel free to check out my projects :)
 
 **2. [Investigate Movie Dataset](https://github.com/jasmineau/InvestigateMovieDataset)** 📚 Pandas, Numpy, Matplolib, seaborn
 - Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights
+
+**3. ...To Be Continued...
