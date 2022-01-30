@@ -6,4 +6,4 @@ Please feel free to check out my projects :)
 - Using SQL to do some Data Exploration and visualize the data in Tableau
 
 **2. [Investigate Movie Dataset](https://github.com/jasmineau/InvestigateMovieDataset)** 📚 Pandas, Numpy, Matplolib, seaborn
-- Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights.
+- Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights
