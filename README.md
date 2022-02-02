@@ -11,4 +11,4 @@ Please feel free to check out my projects :)
 **3. [Web Scrapping](https://github.com/jasmineau/WebScrapping_StockPrice.git)** 📚 DataReader, BeautifulSoup, Requests, Datetime, time, csv
 - scrape real time stock prices online and place data into csv file
 
-**4.[...To Be Continued...]()**
+**4.[...To Be Continued...](https://github.com/jasmineau/Portfolio)**
