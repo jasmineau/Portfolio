@@ -9,6 +9,6 @@ Please feel free to check out my projects :)
 - Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights
 
 **3. [Stock Price Web Scrapping](https://github.com/jasmineau/WebScrapping_StockPrice.git)** 📚 DataReader, BeautifulSoup, Requests, Datetime, time, csv
-- scrape real time stock prices online and place data into csv file
+- use Python to scrape real time stock prices online and place data into csv file
 
 **4.[...To Be Continued...](https://github.com/jasmineau/Portfolio)**
