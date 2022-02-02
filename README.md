@@ -8,7 +8,7 @@ Please feel free to check out my projects :)
 **2. [Investigate Movie Dataset](https://github.com/jasmineau/InvestigateMovieDataset)** 📚 Pandas, Numpy, Matplolib, Seaborn
 - Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights
 
-**3. [Web Scrapping]()** 📚 DataReader, BeautifulSoup, Requests, Datetime, time, csv
+**3. [Web Scrapping](https://github.com/jasmineau/WebScrapping_StockPrice.git)** 📚 DataReader, BeautifulSoup, Requests, Datetime, time, csv
 - scrape real time stock prices online and place data into csv file
 
 **4.[...To Be Continued...]()**
