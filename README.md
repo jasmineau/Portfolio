@@ -1,6 +1,6 @@
-# 👧🏻 Jasmine's Portfolio Projects 
+# 👧🏻 Jasmine's Portfolio Projects
 
-Please feel free to check out my projects :)
+Please feel free to check out my [website](https://jasmineau.github.io/) :)
 
 **1. [Covid-19](https://github.com/jasmineau/Covid-19)**  📚 SQL, Tableau
 - Using SQL to do some Data Exploration and visualize the data in Tableau
